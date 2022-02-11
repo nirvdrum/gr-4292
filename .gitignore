@@ -1,0 +1,5 @@
+*.h
+*.dylib
+*.so
+*.class
+*.build_artifacts.txt
